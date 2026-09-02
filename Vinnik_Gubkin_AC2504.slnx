@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Vinnik_AC2504/Vinnik_AC2504.vcxproj" />
+  <Project Path="Vinnik_AC2504/Vinnik_AC2504.vcxproj" Id="1ad2db64-ff11-46ce-bcb4-45a581830f87" />
 </Solution>
